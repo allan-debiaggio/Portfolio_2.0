@@ -29,7 +29,7 @@ When clicking on "Turn off", computer shutdowns and after a few seconds, a pixel
 ## TODO order list :  
   
 - Task bar (Start button and system tray with datetime)
-- Custom logo for OS (Os Name : MacroWare Skylight - too professionnal 😒, Tinycation Peephole - better suited for me ✔️)
+- Custom logo for OS (Os Name : MacroWare Skylight - too professionnal 😒, Tinyware Peephole - better suited for me ✔️)
 - Icons and other assets
 - A few desktop images (A folder for each big project would be nice for example)
 - Start menu & taskbar click behavior (opens a div with specs or datetime / calendar)
