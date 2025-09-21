@@ -9,7 +9,7 @@ Here is the description of what I want as a final product 😎 :
 - Sounds : Old-school mouseclick sound, static computer noise in the background and little jingle reminiscing of Windows 95 startup jingle 🔉
 - Green - Blue plain colored background 📺
 - Footer with start menu to the left, datetime and internet connexion to the right 📆
-- Functions : About me 📑, Contact 📧, Sounds / music (turn on / off) 🔉, Projects 💿 (Big projects on the desktop in individual folders, all the projects in a list with description accessed through Start menu), Games 👾, Language 🔠 (or parameters with sounds and language), Turn off 🌘
+- Functions : About me 📑, Contact 📧, Sounds / music (turn on / off) 🔉, Projects 💿 (Big projects on the desktop in individual folders, all the projects in a list with description accessed through Start menu), Games 👾, Language 🔠, System specs / Hardware (with easter eggs, like Shamann F4XD as graphics card, etc...), Turn off 🌘
 - Languages will be English, French, Spanish, Ukrainian
 - Possibility to play at least one game in the browser - Minesweeper project for example would be nice and fit the rest 🎮 
 - Possibility to turn on 🌞 or off 🌘 the computer, with this behavior :  
