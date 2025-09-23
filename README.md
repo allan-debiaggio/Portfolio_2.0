@@ -28,6 +28,8 @@ When clicking on "Turn off", computer shutdowns and after a few seconds, a pixel
   
 ## TODO order list :  
   
+- Figma of mobile and desktop UX/UI
+- Mobile first and responsive approach
 - Task bar (Start button and system tray with datetime)
 - Custom logo for OS (Os Name : MacroWare Skylight - too professionnal 😒, Tinyware Peephole - better suited for me ✔️)
 - Icons and other assets
